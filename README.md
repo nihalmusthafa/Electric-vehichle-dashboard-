@@ -1,1 +1,1 @@
-# Electric-Vehichle-Dashboard
+# Electric-Vehicle-Dashboard
